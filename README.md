@@ -4,17 +4,8 @@ Description of Game: Test your knowledge on the magical wizarding world of Harry
 
 <img width="1484" alt="Screen Shot 2022-12-06 at 6 42 46 AM" src="https://user-images.githubusercontent.com/48700021/205920249-418e6160-5909-4744-b103-b6253dabef4d.png">
 
-
-
-
-
-
-
-
-
-
-
-
+Gameplay:
+<img width="1491" alt="Screen Shot 2022-12-06 at 6 43 16 AM" src="https://user-images.githubusercontent.com/48700021/205920417-c993f7e3-2cdf-41bf-9bf1-0481adce1bcb.png">
 
 
 
@@ -23,7 +14,7 @@ Description of Game: Test your knowledge on the magical wizarding world of Harry
 
 
 Things i struggled with during this project:
-1. My main struggle was with functionality of the program. I started the project over 3 times because I seemed to be getting lost in the 
+1. My main struggle was with functionality of the program. The biggest thing i learned was to start off the program very simple and to console.log often. Originally i began working with 30 questions and switched over to just 5.
 
 Future Updates:
 1. Turn the trivia game into a jeopardy trivia game.
